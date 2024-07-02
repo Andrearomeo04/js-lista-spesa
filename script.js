@@ -1,0 +1,1 @@
+const ingredients = ['uova', 'pecorino', 'guanciale', 'pepe nero', 'pasta']
